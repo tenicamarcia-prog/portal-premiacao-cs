@@ -1,0 +1,11 @@
+{
+  "name": "ateky-portal-gestao",
+  "version": "1.0.0",
+  "description": "Portal de Gestao, Metas e Software Center da Ateky Internet",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["ateky", "telecom", "gamification", "dashboard"],
+  "author": "Ateky Internet",
+  "license": "UNLICENSED"
+}
