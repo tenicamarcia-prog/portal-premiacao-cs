@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "ateky-portal",
+  "name": "ateky-premiacao-cs",
   "cleanUrls": true,
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
