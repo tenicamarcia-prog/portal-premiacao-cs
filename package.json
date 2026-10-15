@@ -1,7 +1,7 @@
 {
-  "name": "ateky-portal-gestao",
+  "name": "ateky-portal-centro-de-solucoes",
   "version": "1.0.0",
-  "description": "Portal de Gestao, Metas e Software Center da Ateky Internet",
+  "description": "Portal do Centro de Soluções, Metas e Premiação da Ateky Internet",
   "scripts": {
     "start": "npx serve ."
   },
